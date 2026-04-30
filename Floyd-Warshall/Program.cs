@@ -1,9 +1,11 @@
-﻿namespace Floyd_Warshall;
+using Floyd_Warshall.UI;
 
-class Program
+namespace Floyd_Warshall;
+
+internal static class Program
 {
-    static void Main(string[] args)
+    private static void Main()
     {
-        Console.WriteLine("Hello, World!");
+        new ConsoleMenu().Run();
     }
 }

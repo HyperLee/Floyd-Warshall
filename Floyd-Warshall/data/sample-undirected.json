@@ -1,0 +1,12 @@
+{
+  "nodeCount": 4,
+  "direction": "undirected",
+  "labels": ["A", "B", "C", "D"],
+  "edges": [
+    { "from": 0, "to": 1, "weight": 5 },
+    { "from": 0, "to": 2, "weight": 9 },
+    { "from": 1, "to": 2, "weight": 2 },
+    { "from": 2, "to": 3, "weight": 4 },
+    { "from": 1, "to": 3, "weight": 6 }
+  ]
+}

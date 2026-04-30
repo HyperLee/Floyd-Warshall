@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Floyd-Warshall", "Floyd-Warshall\Floyd-Warshall.csproj", "{DF173E5F-13BE-426B-9C4F-6CE9CE5EEE16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Floyd-Warshall.Tests", "Floyd-Warshall.Tests\Floyd-Warshall.Tests.csproj", "{5A9BC094-EDAE-4CB4-96FD-5E7752FAE6FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{DF173E5F-13BE-426B-9C4F-6CE9CE5EEE16}.Release|x64.Build.0 = Release|Any CPU
 		{DF173E5F-13BE-426B-9C4F-6CE9CE5EEE16}.Release|x86.ActiveCfg = Release|Any CPU
 		{DF173E5F-13BE-426B-9C4F-6CE9CE5EEE16}.Release|x86.Build.0 = Release|Any CPU
+		{5A9BC094-EDAE-4CB4-96FD-5E7752FAE6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A9BC094-EDAE-4CB4-96FD-5E7752FAE6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A9BC094-EDAE-4CB4-96FD-5E7752FAE6FC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5A9BC094-EDAE-4CB4-96FD-5E7752FAE6FC}.Debug|x64.Build.0 = Debug|Any CPU
+		{5A9BC094-EDAE-4CB4-96FD-5E7752FAE6FC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5A9BC094-EDAE-4CB4-96FD-5E7752FAE6FC}.Debug|x86.Build.0 = Debug|Any CPU
+		{5A9BC094-EDAE-4CB4-96FD-5E7752FAE6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A9BC094-EDAE-4CB4-96FD-5E7752FAE6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A9BC094-EDAE-4CB4-96FD-5E7752FAE6FC}.Release|x64.ActiveCfg = Release|Any CPU
+		{5A9BC094-EDAE-4CB4-96FD-5E7752FAE6FC}.Release|x64.Build.0 = Release|Any CPU
+		{5A9BC094-EDAE-4CB4-96FD-5E7752FAE6FC}.Release|x86.ActiveCfg = Release|Any CPU
+		{5A9BC094-EDAE-4CB4-96FD-5E7752FAE6FC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
