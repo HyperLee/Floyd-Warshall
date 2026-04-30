@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch Floyd-Warshall",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/Floyd-Warshall/bin/Debug/net10.0/Floyd-Warshall.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Floyd-Warshall",
+      "console": "integratedTerminal",
+      "stopAtEntry": false,
+      "justMyCode": true
+    }
+  ]
+}
